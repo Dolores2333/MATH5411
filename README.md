@@ -7,4 +7,4 @@ In HKUST, Advanced Probabiliy I is a fundamental course for students study stati
 * 🔥 [Probability Theory and Examples with Exercise Solutions](https://github.com/Dolores2333/MATH5411/tree/main/TextBook)
 
 ### Bonus ⭐
-Both final exam and qualification exam are based 💯 on the knowledge introduced by Prof. BAO in class. Sometimes, it helps to refer to the [notes](https://www.math.ust.hk/~makchen/MATH5411/MATH5411.htm) taken by last lecturer of this course, Professor Kani CHEN . 
+Both final exam and qualification exam are based 💯 on the knowledge introduced by Prof. BAO in class. Sometimes, it helps to refer to the [Notes](https://www.math.ust.hk/~makchen/MATH5411/MATH5411.htm) taken by last lecturer of this course, Professor Kani CHEN . 
