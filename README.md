@@ -3,5 +3,5 @@ In HKUST, Advanced Probabiliy I is a fundamental course for students study stati
 
 * [Class Notes Taken by Me](https://github.com/Dolores2333/MATH5411/tree/main/ClassNotes?raw=true)
 * [2020 Final Exams and My Answers](https://github.com/Dolores2333/MATH5411/tree/main/FinalAnswers)
-* [Finals](https://github.com/Dolores2333/MATH5411/blob/main/FinalAnswers/Final%20exam%20(2020).pdf?raw=true)
+* [2020 PhD Qualification Exams and My Answers](https://github.com/Dolores2333/MATH5411/tree/main/QualificationExam)
 
